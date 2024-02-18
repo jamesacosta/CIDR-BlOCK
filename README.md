@@ -14,4 +14,7 @@ incluye todas las direcciones IP desde 192.168.0.0 hasta 192.168.0.255, donde lo
 red y los últimos 8 bits son la parte de host.
 
 En resumen, CIDR es una notación utilizada para representar bloques de direcciones IP de manera eficiente, lo que
- permite una asignación más flexible y eficiente de direcciones IP en redes de computadoras.
+permite una asignación más flexible y eficiente de direcciones IP en redes de computadoras.
+
+Este Script esta creado precisamente con esa finalidad simplemente debes de ingresar tu ip seguido de la cantidad
+de bits para la mascara de red que deseas ver seria algo asi por ejemplo: 111.111.11.1/24
